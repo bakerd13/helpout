@@ -1,0 +1,12 @@
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\obj\Debug\netcoreapp3.1\helpoutProject.AssemblyInfoInputs.cache
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\obj\Debug\netcoreapp3.1\helpoutProject.AssemblyInfo.cs
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\obj\Debug\netcoreapp3.1\helpoutProject.csproj.CoreCompileInputs.cache
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\bin\Debug\netcoreapp3.1\helpoutProject.exe
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\bin\Debug\netcoreapp3.1\helpoutProject.deps.json
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\bin\Debug\netcoreapp3.1\helpoutProject.runtimeconfig.json
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\bin\Debug\netcoreapp3.1\helpoutProject.runtimeconfig.dev.json
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\bin\Debug\netcoreapp3.1\helpoutProject.dll
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\bin\Debug\netcoreapp3.1\helpoutProject.pdb
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\obj\Debug\netcoreapp3.1\helpoutProject.dll
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\obj\Debug\netcoreapp3.1\helpoutProject.pdb
+D:\Daren_code\helpout\helpoutProject1\helpoutProject\helpoutProject\obj\Debug\netcoreapp3.1\helpoutProject.genruntimeconfig.cache
