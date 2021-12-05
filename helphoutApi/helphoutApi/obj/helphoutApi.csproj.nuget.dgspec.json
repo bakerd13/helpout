@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Daren_code\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj": {}
+    "D:\\Daren_code\\helpout\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj": {}
   },
   "projects": {
-    "D:\\Daren_code\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj": {
+    "D:\\Daren_code\\helpout\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Daren_code\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj",
+        "projectUniqueName": "D:\\Daren_code\\helpout\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj",
         "projectName": "helphoutApi",
-        "projectPath": "D:\\Daren_code\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj",
+        "projectPath": "D:\\Daren_code\\helpout\\helpout\\helphoutApi\\helphoutApi\\helphoutApi.csproj",
         "packagesPath": "C:\\Users\\daren\\.nuget\\packages\\",
-        "outputPath": "D:\\Daren_code\\helpout\\helphoutApi\\helphoutApi\\obj\\",
+        "outputPath": "D:\\Daren_code\\helpout\\helpout\\helphoutApi\\helphoutApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,14 @@
                 "NU1605"
               ]
             },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -82,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
